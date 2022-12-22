@@ -1,7 +1,7 @@
-#### main.ipynb : 모델 및 알고리즘 구현 파일
+#### main.ipynb : 모델 및 알고리즘 구현
 
 
-#### EDA.ipynb : EDA 파일
+#### EDA.ipynb : EDA
 
 
 #### src : 모델 및 알고리즘 모듈화 파일이 저장된 폴더
