@@ -17,6 +17,6 @@
 - 여기서 UPH란 작업자의 시간당 생산량을 의미한다.
 
 <p align="center">
-  <img src = './img/uph.png' width = 400 alt = 'uph' />
+  <img src = './img/uph.png' width = 600 alt = 'uph' />
   <그림 1>
 </p>
