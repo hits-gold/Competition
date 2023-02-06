@@ -1,5 +1,6 @@
 # 시간대별 수요예측을 통한 인력자원관리
-### 한 줄 소개 : Machine Learning과 Deep Learning 모델들을 활용해 CJ대한통운 물동량의 시간대별 수요를 예측했으며, 이 결과로 필요한 인력자원 계산식을 정의했다.
+### 한 줄 소개
+- Machine Learning과 Deep Learning 모델들을 활용해 CJ대한통운 물동량의 시간대별 수요를 예측했으며, 이 결과로 필요한 인력자원 계산식을 정의했다.
 
 <프로젝트 기간 : 2021.09.26 ~ 2021.10.28>  
 <tags : EDA, Data Analysis, ML, DL>  
