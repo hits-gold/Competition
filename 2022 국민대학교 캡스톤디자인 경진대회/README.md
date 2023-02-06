@@ -1,9 +1,12 @@
 ### 발표영상 -> [링크](https://www.youtube.com/watch?v=YDaXfIfclkY&t=164s)
 
 # 딥러닝을 활용한 CCTV 화질개선 프로그램
+### 한 줄 소개
+- 다양한 환경에서 저화질 안면 이미지들의 화질을 딥러닝 모델을 통해 개선시키고 이를 평가했다.
 
 <프로젝트 기간 : 2022.11.26 ~ 2022.12.7>    
-<tags : DeepLearning, CV, Super-resolution>
+<Tags : DeepLearning, CV, Super-resolution>
+<역할 : 팀장, Modeling, presentation>
 
 
 
