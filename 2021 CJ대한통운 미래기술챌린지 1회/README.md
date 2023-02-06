@@ -17,5 +17,6 @@
 
 <p align="center">
   <img src = './img/uph.png' width = 400 alt = 'uph' />
+  
   <그림 1> 수요 예측 결과값과 가정된 UPH를 활용한 필요인력자원 계산식
 </p>
