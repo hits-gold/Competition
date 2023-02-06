@@ -22,7 +22,7 @@
 
 <표 1>
 
-<img src = './img/results.png' width = 500>
+<img src = './img/results.png' width = 800>
 
 <그림1>
 
