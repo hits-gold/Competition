@@ -2,8 +2,8 @@
 
 # 딥러닝을 활용한 CCTV 화질개선 프로그램
 
-프로젝트 기간 : 2022.11.26 ~ 2022.12.7
-tags : DeepLearning, CV, Super-resolution
+<프로젝트 기간 : 2022.11.26 ~ 2022.12.7>
+<tags : DeepLearning, CV, Super-resolution>
 
 
 
