@@ -5,10 +5,7 @@
 - 다양한 환경에서 저화질 안면 이미지들의 화질을 딥러닝 모델을 통해 개선시키고 이를 평가했다.
 
 ### <프로젝트 기간 : 2022.11.26 ~ 2022.12.7>    
-### <Tags : DeepLearning, CV, Super-resolution>   
 ### <역할 : 팀장, Modeling, presentation>
-
-
 
 - 본 프로젝트는 CCTV를 가정한 다양한 환경의 안면 이미지 데이터셋에 downsampling, blur, noise 라는 세 가지 화질 저하를 일으킨 후, 안면 이미지 초해상화 SOTA 모델인 HifaceGAN을 사용하여 화질을 개선한 프로젝트이다.
 
