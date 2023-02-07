@@ -1,6 +1,6 @@
 # 통계철 통계데이터 인공지능 활용대회
 
-||||
+|기간|Tags||
 |:---:|:---:|:---:|
 |2022.03.25 ~ 2022..4.12|NLP, Kobert, Text classification|역할 : 팀장, Kobert modeling|
 
