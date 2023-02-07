@@ -1,6 +1,6 @@
 #### 대회 링크 : https://www.kaggle.com/c/kml2021f/leaderboard
 # Kaggle KML Challenge 2021F
-|기간|Tags||
+|기간|Tags|역할|
 |:---:|:---:|:---:|
 |2021.11.18 ~ 2021.12.16|EDA, ML, DL|팀장, EDA, Modeling|
 ### 프로젝트 요약
